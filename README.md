@@ -8,6 +8,7 @@
 
 
 *Funktionsweise von python
+*Ein - Ausgabe
 *Variablen und Datentypen
 *Abfragen (if..)
 *Schleifen(for,while)
